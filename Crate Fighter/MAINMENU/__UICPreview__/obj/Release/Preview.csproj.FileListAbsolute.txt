@@ -1,0 +1,112 @@
+C:\Users\daniel.popovic\Desktop\Puuuurty\__UICPreview__\bin\Release\Preview-unsigned\Application\app.info
+C:\Users\daniel.popovic\Desktop\Puuuurty\__UICPreview__\bin\Release\Preview-unsigned\Application\app.exe
+C:\Users\daniel.popovic\Desktop\Puuuurty\__UICPreview__\bin\Release\Preview-unsigned\Application\Sce.PlayStation.HighLevel.UI.dll
+C:\Users\daniel.popovic\Desktop\Puuuurty\__UICPreview__\bin\Release\Preview-unsigned\Application\System.Json.dll
+C:\Users\daniel.popovic\Desktop\Puuuurty\__UICPreview__\bin\Release\Preview-unsigned\Application\System.Xml.dll
+C:\Users\daniel.popovic\Desktop\Puuuurty\__UICPreview__\bin\Release\Preview-unsigned\Application\System.Runtime.Serialization.dll
+C:\Users\daniel.popovic\Desktop\Puuuurty\__UICPreview__\bin\Release\Preview-unsigned\Application\System.Core.dll
+C:\Users\daniel.popovic\Desktop\Puuuurty\__UICPreview__\bin\Release\Preview-unsigned\Application\System.ServiceModel.Web.dll
+C:\Users\daniel.popovic\Desktop\Puuuurty\__UICPreview__\bin\Release\Preview-unsigned\Application\System.ServiceModel.dll
+C:\Users\daniel.popovic\Desktop\Puuuurty\__UICPreview__\bin\Release\Preview-unsigned\Application\assets\crate_sideup.png
+C:\Users\daniel.popovic\Desktop\Puuuurty\__UICPreview__\bin\Release\Preview-signed\Application\app.info
+C:\Users\daniel.popovic\Desktop\Puuuurty\__UICPreview__\bin\Release\Preview-signed\Application\app.exe
+C:\Users\daniel.popovic\Desktop\Puuuurty\__UICPreview__\bin\Release\Preview-signed\Application\Sce.PlayStation.HighLevel.UI.dll
+C:\Users\daniel.popovic\Desktop\Puuuurty\__UICPreview__\bin\Release\Preview-signed\Application\System.Json.dll
+C:\Users\daniel.popovic\Desktop\Puuuurty\__UICPreview__\bin\Release\Preview-signed\Application\System.Xml.dll
+C:\Users\daniel.popovic\Desktop\Puuuurty\__UICPreview__\bin\Release\Preview-signed\Application\System.Runtime.Serialization.dll
+C:\Users\daniel.popovic\Desktop\Puuuurty\__UICPreview__\bin\Release\Preview-signed\Application\System.Core.dll
+C:\Users\daniel.popovic\Desktop\Puuuurty\__UICPreview__\bin\Release\Preview-signed\Application\System.ServiceModel.Web.dll
+C:\Users\daniel.popovic\Desktop\Puuuurty\__UICPreview__\bin\Release\Preview-signed\Application\System.ServiceModel.dll
+C:\Users\daniel.popovic\Desktop\Puuuurty\__UICPreview__\bin\Release\Preview-signed\Application\assets\crate_sideup.png
+C:\Users\daniel.popovic\Desktop\Puuuurty\__UICPreview__\bin\Release\Preview.psdp
+C:\Users\daniel.popovic\Desktop\Puuuurty\__UICPreview__\obj\Release\ResolveAssemblyReference.cache
+C:\Users\daniel.popovic\Desktop\Puuuurty\__UICPreview__\obj\Release\app.exe
+C:\Users\daniel.popovic\Desktop\Puuuurty\__UICPreview__\bin\Release\Preview-unsigned\Application\assets\crate_sidedown.png
+C:\Users\daniel.popovic\Desktop\Puuuurty\__UICPreview__\bin\Release\Preview-signed\Application\assets\crate_sidedown.png
+C:\Users\daniel.popovic\Desktop\Puuuurty\__UICPreview__\bin\Release\Preview-unsigned\Application\assets\blade.png
+C:\Users\daniel.popovic\Desktop\Puuuurty\__UICPreview__\bin\Release\Preview-signed\Application\assets\blade.png
+C:\Users\harley.laurie\Desktop\Puuuurty\__UICPreview__\bin\Release\Preview-unsigned\Application\app.info
+C:\Users\harley.laurie\Desktop\Puuuurty\__UICPreview__\bin\Release\Preview-unsigned\Application\app.exe
+C:\Users\harley.laurie\Desktop\Puuuurty\__UICPreview__\bin\Release\Preview-unsigned\Application\Sce.PlayStation.HighLevel.UI.dll
+C:\Users\harley.laurie\Desktop\Puuuurty\__UICPreview__\bin\Release\Preview-unsigned\Application\System.Json.dll
+C:\Users\harley.laurie\Desktop\Puuuurty\__UICPreview__\bin\Release\Preview-unsigned\Application\System.Xml.dll
+C:\Users\harley.laurie\Desktop\Puuuurty\__UICPreview__\bin\Release\Preview-unsigned\Application\System.Runtime.Serialization.dll
+C:\Users\harley.laurie\Desktop\Puuuurty\__UICPreview__\bin\Release\Preview-unsigned\Application\System.Core.dll
+C:\Users\harley.laurie\Desktop\Puuuurty\__UICPreview__\bin\Release\Preview-unsigned\Application\System.ServiceModel.Web.dll
+C:\Users\harley.laurie\Desktop\Puuuurty\__UICPreview__\bin\Release\Preview-unsigned\Application\System.ServiceModel.dll
+C:\Users\harley.laurie\Desktop\Puuuurty\__UICPreview__\bin\Release\Preview-unsigned\Application\assets\blade.png
+C:\Users\harley.laurie\Desktop\Puuuurty\__UICPreview__\bin\Release\Preview-unsigned\Application\assets\crate_sidedown.png
+C:\Users\harley.laurie\Desktop\Puuuurty\__UICPreview__\bin\Release\Preview-unsigned\Application\assets\crate_sideup.png
+C:\Users\harley.laurie\Desktop\Puuuurty\__UICPreview__\bin\Release\Preview-signed\Application\app.info
+C:\Users\harley.laurie\Desktop\Puuuurty\__UICPreview__\bin\Release\Preview-signed\Application\app.exe
+C:\Users\harley.laurie\Desktop\Puuuurty\__UICPreview__\bin\Release\Preview-signed\Application\Sce.PlayStation.HighLevel.UI.dll
+C:\Users\harley.laurie\Desktop\Puuuurty\__UICPreview__\bin\Release\Preview-signed\Application\System.Json.dll
+C:\Users\harley.laurie\Desktop\Puuuurty\__UICPreview__\bin\Release\Preview-signed\Application\System.Xml.dll
+C:\Users\harley.laurie\Desktop\Puuuurty\__UICPreview__\bin\Release\Preview-signed\Application\System.Runtime.Serialization.dll
+C:\Users\harley.laurie\Desktop\Puuuurty\__UICPreview__\bin\Release\Preview-signed\Application\System.Core.dll
+C:\Users\harley.laurie\Desktop\Puuuurty\__UICPreview__\bin\Release\Preview-signed\Application\System.ServiceModel.Web.dll
+C:\Users\harley.laurie\Desktop\Puuuurty\__UICPreview__\bin\Release\Preview-signed\Application\System.ServiceModel.dll
+C:\Users\harley.laurie\Desktop\Puuuurty\__UICPreview__\bin\Release\Preview-signed\Application\assets\blade.png
+C:\Users\harley.laurie\Desktop\Puuuurty\__UICPreview__\bin\Release\Preview-signed\Application\assets\crate_sidedown.png
+C:\Users\harley.laurie\Desktop\Puuuurty\__UICPreview__\bin\Release\Preview-signed\Application\assets\crate_sideup.png
+C:\Users\harley.laurie\Desktop\Puuuurty\__UICPreview__\bin\Release\Preview.psdp
+C:\Users\harley.laurie\Desktop\Puuuurty\__UICPreview__\obj\Release\ResolveAssemblyReference.cache
+C:\Users\harley.laurie\Desktop\Puuuurty\__UICPreview__\obj\Release\app.exe
+C:\Users\daniel.popovic\daniel.popovic_AIE-Purple-21_7534\daniel.popovic_AIE-Purple-21_7534\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-unsigned\Application\app.info
+C:\Users\daniel.popovic\daniel.popovic_AIE-Purple-21_7534\daniel.popovic_AIE-Purple-21_7534\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-unsigned\Application\app.exe
+C:\Users\daniel.popovic\daniel.popovic_AIE-Purple-21_7534\daniel.popovic_AIE-Purple-21_7534\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-unsigned\Application\Sce.PlayStation.HighLevel.UI.dll
+C:\Users\daniel.popovic\daniel.popovic_AIE-Purple-21_7534\daniel.popovic_AIE-Purple-21_7534\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-unsigned\Application\System.Json.dll
+C:\Users\daniel.popovic\daniel.popovic_AIE-Purple-21_7534\daniel.popovic_AIE-Purple-21_7534\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-unsigned\Application\System.Xml.dll
+C:\Users\daniel.popovic\daniel.popovic_AIE-Purple-21_7534\daniel.popovic_AIE-Purple-21_7534\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-unsigned\Application\System.Runtime.Serialization.dll
+C:\Users\daniel.popovic\daniel.popovic_AIE-Purple-21_7534\daniel.popovic_AIE-Purple-21_7534\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-unsigned\Application\System.Core.dll
+C:\Users\daniel.popovic\daniel.popovic_AIE-Purple-21_7534\daniel.popovic_AIE-Purple-21_7534\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-unsigned\Application\System.ServiceModel.Web.dll
+C:\Users\daniel.popovic\daniel.popovic_AIE-Purple-21_7534\daniel.popovic_AIE-Purple-21_7534\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-unsigned\Application\System.ServiceModel.dll
+C:\Users\daniel.popovic\daniel.popovic_AIE-Purple-21_7534\daniel.popovic_AIE-Purple-21_7534\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-unsigned\Application\assets\blade.png
+C:\Users\daniel.popovic\daniel.popovic_AIE-Purple-21_7534\daniel.popovic_AIE-Purple-21_7534\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-unsigned\Application\assets\crate_sidedown.png
+C:\Users\daniel.popovic\daniel.popovic_AIE-Purple-21_7534\daniel.popovic_AIE-Purple-21_7534\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-unsigned\Application\assets\crate_sideup.png
+C:\Users\daniel.popovic\daniel.popovic_AIE-Purple-21_7534\daniel.popovic_AIE-Purple-21_7534\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-signed\Application\app.info
+C:\Users\daniel.popovic\daniel.popovic_AIE-Purple-21_7534\daniel.popovic_AIE-Purple-21_7534\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-signed\Application\app.exe
+C:\Users\daniel.popovic\daniel.popovic_AIE-Purple-21_7534\daniel.popovic_AIE-Purple-21_7534\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-signed\Application\Sce.PlayStation.HighLevel.UI.dll
+C:\Users\daniel.popovic\daniel.popovic_AIE-Purple-21_7534\daniel.popovic_AIE-Purple-21_7534\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-signed\Application\System.Json.dll
+C:\Users\daniel.popovic\daniel.popovic_AIE-Purple-21_7534\daniel.popovic_AIE-Purple-21_7534\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-signed\Application\System.Xml.dll
+C:\Users\daniel.popovic\daniel.popovic_AIE-Purple-21_7534\daniel.popovic_AIE-Purple-21_7534\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-signed\Application\System.Runtime.Serialization.dll
+C:\Users\daniel.popovic\daniel.popovic_AIE-Purple-21_7534\daniel.popovic_AIE-Purple-21_7534\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-signed\Application\System.Core.dll
+C:\Users\daniel.popovic\daniel.popovic_AIE-Purple-21_7534\daniel.popovic_AIE-Purple-21_7534\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-signed\Application\System.ServiceModel.Web.dll
+C:\Users\daniel.popovic\daniel.popovic_AIE-Purple-21_7534\daniel.popovic_AIE-Purple-21_7534\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-signed\Application\System.ServiceModel.dll
+C:\Users\daniel.popovic\daniel.popovic_AIE-Purple-21_7534\daniel.popovic_AIE-Purple-21_7534\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-signed\Application\assets\blade.png
+C:\Users\daniel.popovic\daniel.popovic_AIE-Purple-21_7534\daniel.popovic_AIE-Purple-21_7534\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-signed\Application\assets\crate_sidedown.png
+C:\Users\daniel.popovic\daniel.popovic_AIE-Purple-21_7534\daniel.popovic_AIE-Purple-21_7534\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-signed\Application\assets\crate_sideup.png
+C:\Users\daniel.popovic\daniel.popovic_AIE-Purple-21_7534\daniel.popovic_AIE-Purple-21_7534\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview.psdp
+C:\Users\daniel.popovic\daniel.popovic_AIE-Purple-21_7534\daniel.popovic_AIE-Purple-21_7534\Group Projects\This Side Up\MAINMENU\__UICPreview__\obj\Release\ResolveAssemblyReference.cache
+C:\Users\daniel.popovic\daniel.popovic_AIE-Purple-21_7534\daniel.popovic_AIE-Purple-21_7534\Group Projects\This Side Up\MAINMENU\__UICPreview__\obj\Release\app.exe
+C:\Users\daniel.popovic\daniel.popovic_AIE-Purple-21_7534\daniel.popovic_AIE-Purple-21_7534\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-unsigned\Application\assets\1269422099021.png
+C:\Users\daniel.popovic\daniel.popovic_AIE-Purple-21_7534\daniel.popovic_AIE-Purple-21_7534\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-signed\Application\assets\1269422099021.png
+C:\Users\harley.laurie\Perforce\harley.laurie_AIE-Purple-22_1674\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-unsigned\Application\app.info
+C:\Users\harley.laurie\Perforce\harley.laurie_AIE-Purple-22_1674\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-unsigned\Application\app.exe
+C:\Users\harley.laurie\Perforce\harley.laurie_AIE-Purple-22_1674\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-unsigned\Application\Sce.PlayStation.HighLevel.UI.dll
+C:\Users\harley.laurie\Perforce\harley.laurie_AIE-Purple-22_1674\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-unsigned\Application\System.Json.dll
+C:\Users\harley.laurie\Perforce\harley.laurie_AIE-Purple-22_1674\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-unsigned\Application\System.Xml.dll
+C:\Users\harley.laurie\Perforce\harley.laurie_AIE-Purple-22_1674\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-unsigned\Application\System.Runtime.Serialization.dll
+C:\Users\harley.laurie\Perforce\harley.laurie_AIE-Purple-22_1674\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-unsigned\Application\System.Core.dll
+C:\Users\harley.laurie\Perforce\harley.laurie_AIE-Purple-22_1674\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-unsigned\Application\System.ServiceModel.Web.dll
+C:\Users\harley.laurie\Perforce\harley.laurie_AIE-Purple-22_1674\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-unsigned\Application\System.ServiceModel.dll
+C:\Users\harley.laurie\Perforce\harley.laurie_AIE-Purple-22_1674\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-unsigned\Application\assets\1269422099021.png
+C:\Users\harley.laurie\Perforce\harley.laurie_AIE-Purple-22_1674\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-unsigned\Application\assets\blade.png
+C:\Users\harley.laurie\Perforce\harley.laurie_AIE-Purple-22_1674\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-unsigned\Application\assets\crate_sidedown.png
+C:\Users\harley.laurie\Perforce\harley.laurie_AIE-Purple-22_1674\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-unsigned\Application\assets\crate_sideup.png
+C:\Users\harley.laurie\Perforce\harley.laurie_AIE-Purple-22_1674\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-signed\Application\app.info
+C:\Users\harley.laurie\Perforce\harley.laurie_AIE-Purple-22_1674\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-signed\Application\app.exe
+C:\Users\harley.laurie\Perforce\harley.laurie_AIE-Purple-22_1674\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-signed\Application\Sce.PlayStation.HighLevel.UI.dll
+C:\Users\harley.laurie\Perforce\harley.laurie_AIE-Purple-22_1674\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-signed\Application\System.Json.dll
+C:\Users\harley.laurie\Perforce\harley.laurie_AIE-Purple-22_1674\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-signed\Application\System.Xml.dll
+C:\Users\harley.laurie\Perforce\harley.laurie_AIE-Purple-22_1674\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-signed\Application\System.Runtime.Serialization.dll
+C:\Users\harley.laurie\Perforce\harley.laurie_AIE-Purple-22_1674\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-signed\Application\System.Core.dll
+C:\Users\harley.laurie\Perforce\harley.laurie_AIE-Purple-22_1674\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-signed\Application\System.ServiceModel.Web.dll
+C:\Users\harley.laurie\Perforce\harley.laurie_AIE-Purple-22_1674\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-signed\Application\System.ServiceModel.dll
+C:\Users\harley.laurie\Perforce\harley.laurie_AIE-Purple-22_1674\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-signed\Application\assets\1269422099021.png
+C:\Users\harley.laurie\Perforce\harley.laurie_AIE-Purple-22_1674\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-signed\Application\assets\blade.png
+C:\Users\harley.laurie\Perforce\harley.laurie_AIE-Purple-22_1674\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-signed\Application\assets\crate_sidedown.png
+C:\Users\harley.laurie\Perforce\harley.laurie_AIE-Purple-22_1674\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview-signed\Application\assets\crate_sideup.png
+C:\Users\harley.laurie\Perforce\harley.laurie_AIE-Purple-22_1674\Group Projects\This Side Up\MAINMENU\__UICPreview__\bin\Release\Preview.psdp
+C:\Users\harley.laurie\Perforce\harley.laurie_AIE-Purple-22_1674\Group Projects\This Side Up\MAINMENU\__UICPreview__\obj\Release\ResolveAssemblyReference.cache
+C:\Users\harley.laurie\Perforce\harley.laurie_AIE-Purple-22_1674\Group Projects\This Side Up\MAINMENU\__UICPreview__\obj\Release\app.exe
